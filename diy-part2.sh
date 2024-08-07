@@ -18,3 +18,5 @@
 
 # Modify hostname
 #sed -i 's/OpenWrt/P3TERX-Router/g' package/base-files/files/bin/config_generate
+
+git clone https://github.com/lieandrelax/openwrt-23.05.3 package/hello_world
